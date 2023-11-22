@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Snake
+  - Wall
+  - Food
+  - Player 1 Wall
+  - Player 2 Wall
+  - Building
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tilemap
+  - Water
+  - UI
+  - Player 1UI
+  - Player 2UI
+  - Player1Wall
+  - Player2Wall
+  - Player1
+  - Player2
+  - BorderWalls
+  - Building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: ui
+    uniqueID: 1502959217
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
